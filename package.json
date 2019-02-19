@@ -1,0 +1,23 @@
+{
+  "name": "rgbx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "expo-init": "expo init rgbx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinStotts/rgbx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinStotts/rgbx/issues"
+  },
+  "homepage": "https://github.com/austinStotts/rgbx#readme",
+  "dependencies": {
+    "expo-cli": "^2.10.1"
+  }
+}
